@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is not that important here, but in the meantime, you can refer to me as Mzee.
+I see that you found your way into the store where I keep my sane, rational, irrational, and emotional thoughts. Well, that's good for you. Though let me warn you, what you are going to find here will most likely shock you, amaze you, or even scare you. However, I don't care about you, so I hope you do the same.
 
 <!--
 **Harrytutor/Harrytutor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
