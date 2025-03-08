@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "My First Entry"
 date: 2025-03-08
 ---
