@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Diary Entries
+permalink: /diary/
 ---
 
 Here are all my diary entries:
